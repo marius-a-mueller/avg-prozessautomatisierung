@@ -1,1 +1,26 @@
-{}
+{
+  "abteilungen": [
+    {
+      "id": "001",
+      "vorgesetzter": "Max Mustermann",
+      "kostenstelle": "KST1001"
+    },
+    {
+      "id": "002",
+      "vorgesetzter": "Erika Musterfrau",
+      "kostenstelle": "KST1002"
+    }
+  ],
+  "projekte": [
+    {
+      "id": "001",
+      "projektleiter": "Hans Beispiel",
+      "kostenstelle": "KST2001"
+    },
+    {
+      "id": "002",
+      "projektleiter": "Lena Beispiel",
+      "kostenstelle": "KST2002"
+    }
+  ]
+}
