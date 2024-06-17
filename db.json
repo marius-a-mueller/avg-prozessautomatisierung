@@ -3,24 +3,24 @@
     {
       "id": "1",
       "vorgesetzter": "Max Mustermann",
-      "kostenstelle": "KST1001"
+      "abteilung_kostenstelle": "KST1001"
     },
     {
       "id": "2",
       "vorgesetzter": "Erika Musterfrau",
-      "kostenstelle": "KST1002"
+      "abteilung_kostenstelle": "KST1002"
     }
   ],
   "projekte": [
     {
       "id": "1",
       "projektleiter": "Hans Beispiel",
-      "kostenstelle": "KST2001"
+      "projekt_kostenstelle": "KST2001"
     },
     {
       "id": "2",
       "projektleiter": "Lena Beispiel",
-      "kostenstelle": "KST2002"
+      "projekt_kostenstelle": "KST2002"
     }
   ]
 }
