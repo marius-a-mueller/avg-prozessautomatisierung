@@ -3,11 +3,13 @@
     {
       "id": "1",
       "vorgesetzter": "Max Mustermann",
+      "vorgesetzter_id": "camunda@mindful-student.net",
       "abteilung_kostenstelle": "KST1001"
     },
     {
       "id": "2",
       "vorgesetzter": "Erika Musterfrau",
+      "vorgesetzter_id": "",
       "abteilung_kostenstelle": "KST1002"
     }
   ],
