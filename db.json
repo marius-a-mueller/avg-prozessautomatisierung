@@ -5,24 +5,14 @@
       "vorgesetzter": "Max Mustermann",
       "vorgesetzter_id": "camunda@mindful-student.net",
       "abteilung_kostenstelle": "KST1001"
-    },
-    {
-      "id": "2",
-      "vorgesetzter": "Erika Musterfrau",
-      "vorgesetzter_id": "",
-      "abteilung_kostenstelle": "KST1002"
     }
   ],
   "projekte": [
     {
       "id": "1",
       "projektleiter": "Hans Beispiel",
+      "projektleiter_id": "infoant@gmx.de",
       "projekt_kostenstelle": "KST2001"
-    },
-    {
-      "id": "2",
-      "projektleiter": "Lena Beispiel",
-      "projekt_kostenstelle": "KST2002"
     }
   ]
 }
